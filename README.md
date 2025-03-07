@@ -31,7 +31,7 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
    - Equivalence Partitioning & Boundary-Value Analysis for Sign Up functionality (date of birth field)
    - Decision Table Testing for Music Search functionality (Song, Artist, Album, Playlist, and Film OST)
      
-###   - [Test Scenario Writing](https://trello.com/invite/b/67b837177f25b97e6a5b04b5/ATTI5949cdabbc91fc5c379e3e89e14b22f45133677E/spotify-test-scenarios) (Trello)
+###   - [Test Scenario Writing](https://trello.com/b/z2pnoKJq/spotify-test-scenarios) (Trello)
 ###   - [Test Cases Writing](https://docs.google.com/spreadsheets/d/1ttfTnw705LfU7kh47s2N8l9ff8HnZ2Q4yl77ixrH2gU/edit?usp=sharing]) (Google Sheets)
 
 ### 🧠 **Courses**
