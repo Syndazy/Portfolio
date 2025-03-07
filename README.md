@@ -6,7 +6,7 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 
 
 ### 🛠️ **Tools:**  
-- **Bug Tracking**: Jira (familiar), Trello  
+- **Bug Tracking**: Jira (using Zephyr scale), Trello  
 - **Programming**: C#, Python (entry-level)
 - **Game Audio**: Unity, Unreal Engine, Wwise, FMOD
 - **Audio & Video Tools**: Reaper, Ableton, Pro Tools, Izotope RX, DaVinci Resolve
@@ -24,6 +24,7 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 ### 🦾 **Software Testing Skills:**  
 - Test Scenarios writing (Black-Box)
 - Test Cases writing (Black-Box)
+- Behavior-Driven Development Scenarios
 
 ### 📚 **Projects**
 1. **Spotify** - **Sign Up**, **Log In**, **Music Search** **functionalities testing**. The project used a combination of Functional testing, UI/UX testing, and Negative Testing). The project utilised black-box testing techniques:
