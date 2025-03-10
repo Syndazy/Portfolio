@@ -6,7 +6,7 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 
 
 ### 🛠️ **Tools:**  
-- **Bug Tracking**: Jira (using Zephyr scale), Trello  
+- **Bug Tracking**: Jira (using Zephyr scale + No-code Automation using Gen-Ai), Trello  
 - **Programming**: C#, Python (entry-level)
 - **Game Audio**: Unity, Unreal Engine, Wwise, FMOD
 - **Audio & Video Tools**: Reaper, Ableton, Pro Tools, Izotope RX, DaVinci Resolve
