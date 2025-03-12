@@ -6,7 +6,7 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 
 
 ### 🛠️ **Tools:**  
-- **Bug Tracking**: Jira (using Zephyr scale + No-code Automation using Gen-Ai), Trello  
+- **Bug Tracking**: Jira (with Zephyr Scale), Trello  
 - **Programming**: C#, Python (entry-level)
 - **Game Audio**: Unity, Unreal Engine, Wwise, FMOD
 - **Audio & Video Tools**: Reaper, Ableton, Pro Tools, Izotope RX, DaVinci Resolve
@@ -20,11 +20,16 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 - **Testing Types** (Non/Functional Testing, Black-Box & White-Box Testing, Dynamic & Static Testing, Conformation Testing, Regression Testing, Smoke Testing)
 - **Black-Box Testing Techniques** (Equivalent Partitioning, Boundary-Value Analysis, Decision Table Testing, State Transition Testing, Pairwise Testing)
 - **Test Scenarios & Test Cases** writing concept and structures
+- **Defects**: Types of Defects, Defect Lifecycle
 
 ### 🦾 **Software Testing Skills:**  
-- Test Scenarios writing (Black-Box)
+- Test Scenarios writing (Black-Box, BDD Scenarios)
 - Test Cases writing (Black-Box)
-- Behavior-Driven Development Scenarios
+- Defect Report writing
+- Test Execution (manual, No-code Automation using Gen-Ai in Zephyr Scale)
+- Bug Reporting
+- Accessibility Testing (using Axe DevTools)
+- Defects: Capturing Web Logs, Taking Screenshots & Recording Videos (using ScreenPal)
 
 ### 📚 **Projects**
 1. **Spotify** - **Sign Up**, **Log In**, **Music Search** **functionalities testing**. The project used a combination of Functional testing, Positive and Negative Testing, and UI/UX testing). The project utilised black-box testing techniques:
