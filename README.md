@@ -21,6 +21,8 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 - **Black-Box Testing Techniques** (Equivalent Partitioning, Boundary-Value Analysis, Decision Table Testing, State Transition Testing, Pairwise Testing)
 - **Test Scenarios & Test Cases** writing concept and structures
 - **Defects**: Types of Defects, Defect Lifecycle
+- **Test Reports**: Test Progress, Test Summary
+- **Agile**: Agile Manifesto (Values & Principles), Agile Requirements (Themes, Features, Epics, User Story, User Tests), INVEST technique
 
 ### 🦾 **Software Testing Skills:**  
 - Test Scenarios writing (Black-Box, BDD Scenarios)
