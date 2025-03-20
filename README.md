@@ -32,6 +32,7 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 - Bug Reporting
 - Accessibility Testing (using Axe DevTools)
 - Defects: Capturing Web Logs, Taking Screenshots & Recording Videos (using ScreenPal)
+- Agile: User Stories writing (Gherkin Format), Rules Automation (in Jira)
 
 ### 📚 **Projects**
 1. **Spotify** - **Sign Up**, **Log In**, **Music Search** **functionalities testing**. The project used a combination of Functional testing, Positive and Negative Testing, and UI/UX testing). The project utilised black-box testing techniques:
