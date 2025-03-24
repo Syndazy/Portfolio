@@ -39,7 +39,8 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
    - State Transition testing for Sign Up, Log In functionalities
    - Equivalence Partitioning & Boundary-Value Analysis for Sign Up functionality (Email, Password, Username & Date of birth field)
    - Equivalence Partitioning for Music Search functionality (Song, Artist, Album, Playlist, and Film OST)
-     
+
+###   - [Project Walkthrough](https://www.youtube.com/watch?v=BcCN6ZuoerU&ab_channel=StefanMarinaki) (YouTube)
 ###   - [Test Scenario Writing](https://trello.com/b/z2pnoKJq/spotify-test-scenarios) (Trello)
 ###   - [Test Cases Writing](https://docs.google.com/spreadsheets/d/1ttfTnw705LfU7kh47s2N8l9ff8HnZ2Q4yl77ixrH2gU/edit?usp=sharing]) (Google Sheets)
 
