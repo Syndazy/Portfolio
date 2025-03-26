@@ -38,12 +38,13 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 - **API**: Scripting API quiries using JSON in Postman, XML and JSON basic writing
 
 ### 📚 **Projects**
-1. **Agile Testing in Scrum Project using JIRA**
+### 1. **Agile Testing in Scrum Project using JIRA** ###
  For testing purposes, the project used a Figma design of the transportation app (like Uber). In Jira, **user stories** were created and added to the Backlog, and **acceptance criteria** was written in **Gherkin format** (Given, When, Then). **Story points**, Priority, and Parent (Epic group) were assigned to user stories accordingly. The most important tests were added to Sprint 1, and the **Automation tool** was used to move the user story automatically to the "Done" section when all children are completed. **Burn-down chart** was used to track the total work remaining in Sprint 1.
 
 ###   - [The Project](https://docs.google.com/presentation/d/1FrGYEFlPc4jSW7zEXykDZcGzQ1Ucc8I07wGV_3hKOzs/edit?usp=sharing) (Google Slides)
 
-2. **Spotify** - **Sign Up**, **Log In**, **Music Search** **functionalities testing**. The project used a combination of Functional testing, Positive and Negative Testing, and UI/UX testing). The project utilised black-box testing techniques:
+### 2. Black-Box Testing using **Spotify** functionalities - **Sign Up**, **Log In**, **Music Search** ###
+The project used a combination of Functional testing, Positive and Negative Testing, and UI/UX testing). The project utilised black-box testing techniques:
    - State Transition testing for Sign Up, Log In functionalities
    - Equivalence Partitioning & Boundary-Value Analysis for Sign Up functionality (Email, Password, Username & Date of birth field)
    - Equivalence Partitioning for Music Search functionality (Song, Artist, Album, Playlist, and Film OST)
