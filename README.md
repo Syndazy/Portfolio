@@ -8,8 +8,10 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 ### 🛠️ **Tools:**  
 - **Bug Tracking**: Jira, Zephyr Scale, Trello
 - **Programming**: C#, Python (entry-level)
+- **API**: Postman
 - **Game Audio**: Unity, Unreal Engine, Wwise, FMOD
 - **Audio & Video Tools**: Reaper, Ableton, Pro Tools, Izotope RX, DaVinci Resolve
+
 
 ### 💡 **Software Testing / QA Knowledge:**  
 - **Roles in Software Development** (Business Analyst, UI & UX Designer, Front/Back-End Developer, etc)
@@ -23,20 +25,21 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 - **Defects**: Types of Defects, Defect Lifecycle
 - **Test Reports**: Test Progress, Test Summary
 - **Agile**: Agile Manifesto (Values & Principles), Agile Requirements (Themes, Features, Epics, User Story, User Tests), INVEST technique, **Scrum** & **Kanban** (Methodolgoies and Practises), Charts (Burn-Down, Burn-Up, Velocity)
+- **API**: HTTP (Methods & Status Codes), XML, JSON, SOAP, REST
 
 ### 🦾 **Software Testing Skills:**  
-- Test Scenarios writing (Black-Box, BDD Scenarios)
-- Test Cases writing (Black-Box)
-- Defect Report writing
-- Test Execution (manual, No-code Automation using Gen-Ai in Zephyr Scale)
-- Bug Reporting
-- Accessibility Testing (using Axe DevTools)
-- Defects: Capturing Web Logs, Taking Screenshots & Recording Videos (using ScreenPal)
-- Agile: User Stories & Acceptance Criteria writing (Gherkin Format), Rules Automation (in Jira)
+- **Black Box Testing**: Test Scenarios writing, Test Cases writing
+- **Defect Report writing**
+- **Test Execution** (manual, No-code Automation using Gen-Ai in Zephyr Scale)
+- **Bug Reporting**
+- **Accessibility Testing** (using Axe DevTools)
+- **Defects**: Capturing Web Logs, Taking Screenshots & Recording Videos (using ScreenPal)
+- **Agile**: User Stories & Acceptance Criteria writing (Gherkin Format), Rules Automation (in Jira)
+- **API**: Scripting API quiries using JSON in Postman, XML and JSON basic writing
 
 ### 📚 **Projects**
 1. **Agile Testing in Scrum using JIRA**
- For testing purposes, the project used a Figma design of the transportation app (like Uber). In JIRA, **user stories** were added to the Backlog and **acceptance criteria** were written in **Gherkin format** (Given, When, Then). **Story points**, Priority, and Parent (Epic group) were assigned to user stories accordingly. The most important tests were added to Sprint 1, and the **Automation tool** was used to move the user story automatically to the "Done" section when all children are completed. **Burn-down chart** was used to track the total work remaining in Sprint 1.
+ For testing purposes, the project used a Figma design of the transportation app (like Uber). In Jira, **user stories** were created and added to the Backlog, and **acceptance criteria** was written in **Gherkin format** (Given, When, Then). **Story points**, Priority, and Parent (Epic group) were assigned to user stories accordingly. The most important tests were added to Sprint 1, and the **Automation tool** was used to move the user story automatically to the "Done" section when all children are completed. **Burn-down chart** was used to track the total work remaining in Sprint 1.
 
 ###   - [The Project](https://docs.google.com/presentation/d/1FrGYEFlPc4jSW7zEXykDZcGzQ1Ucc8I07wGV_3hKOzs/edit?usp=sharing) (Google Slides)
 
