@@ -1,4 +1,4 @@
-# Stefans Marinaki – Software Testing/QA  Portfolio 🧪🔉🎮
+# Stefans Marinaki – Software Testing/QA  Portfolio
 
 ## 👨‍⚕️ About Me  | [LinkedIn](https://www.linkedin.com/in/stefansmarinaki/) | [Website](https://stefansmarinaki.com/) | [YouTube](https://www.youtube.com/@syndazy)
 Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background in **Game Audio, Audio Programming, and Sound Design** which gives me a **unique perspective** in QA when testing digital products. After spending over three years in the game audio industry, I realised my personality traits resonates with **lookout for details, structured workflows, patience, and desire for excellence in production** which brought me to the world of Quality Assurance and Software Testing. Currently, I am completing **The Complete 2025 Software Testing Bootcamp** while working on personal software testing projects to build my expertise. My deep down mission has always been to provide great service to people. Whether this is creating a well-written test documentation for my colleagues or guarantee that the app is defect free for the seamless user experience, I am always willing to be a part of this.
@@ -14,7 +14,7 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 
 
 ### 💡 **Software Testing / QA Knowledge:**  
-- **Roles in Software Development** (Business Analyst, UI & UX Designer, Front/Back-End Developer, etc)
+- **Software Development Roles** (Business Analyst, UI & UX Designer, Front/Back-End Developer, etc)
 - **Software Development Life Cycle models** (Waterfall, V-Model, Agile, Scrum)
 - **Basic Concept of Software Testing** (Dynamic & Static Testing, Validation & Verification)
 - **Test Processes** (Planning --> Completion) 
