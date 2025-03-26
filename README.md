@@ -35,7 +35,7 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 - **Accessibility Testing** (using Axe DevTools)
 - **Defects**: Capturing Web Logs, Taking Screenshots & Recording Videos (using ScreenPal)
 - **Agile**: User Stories & Acceptance Criteria writing (Gherkin Format), Rules Automation (in Jira)
-- **API**: Scripting API quiries using JSON in Postman, XML and JSON basic writing
+- **API**: Scripting API queries using JSON in Postman, XML and JSON basic writing
 
 ### 📚 **Projects**
 ### 1. **Agile Testing in Scrum Project using JIRA** ###
