@@ -7,12 +7,13 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 
 ### 🛠️ **Tools:**  
 - **Bug Tracking**: Jira, Zephyr Scale, Trello
-- **Programming**: C#, Python (entry-level)
+- **Programming Languages**: C#, Python (entry-level)
+- **Data Structures**: JSON, XML
 - **API**: Postman
 - **Game Audio**: Unity, Unreal Engine, Wwise, FMOD
 - **Audio & Video Tools**: Reaper, Ableton, Pro Tools, Izotope RX, DaVinci Resolve
 
-
+&nbsp;
 ### 💡 **Software Testing / QA Knowledge:**  
 - **Software Development Roles** (Business Analyst, UI & UX Designer, Front/Back-End Developer, etc)
 - **Software Development Life Cycle models** (Waterfall, V-Model, Agile, Scrum)
@@ -27,6 +28,7 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 - **Agile**: Agile Manifesto (Values & Principles), Agile Requirements (Themes, Features, Epics, User Story, User Tests), INVEST technique, **Scrum** & **Kanban** (Methodolgoies and Practises), Charts (Burn-Down, Burn-Up, Velocity)
 - **API**: HTTP (Methods & Status Codes), XML, JSON, SOAP, REST
 
+&nbsp;
 ### 🦾 **Software Testing Skills:**  
 - **Black Box Testing**: Test Scenarios writing, Test Cases writing
 - **Defect Report writing**
@@ -37,13 +39,36 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 - **Agile**: User Stories & Acceptance Criteria writing (Gherkin Format), Rules Automation (in Jira)
 - **API**: Scripting API queries using JSON in Postman, XML and JSON basic writing
 
+&nbsp;
 ### 📚 **Projects**
-### 1. **Agile Testing in Scrum Project using JIRA** ###
+
+### 1. **API testing Project using ReqRes in Postman** ✅
+ This is an API testing project using dummy data taken from the https://reqres.in/ website.
+Test requests are split into passed and failed folders. In the "Passed" folder, all 36 cases have passed. In the "Failed" folder, 4 out of 24 cases have failed (all related to the wrong status code) and all cases have the wrong response (body). Some tests were generated with _Postman AI_ and adjusted accordingly.
+
+<ins>Global tests check that<ins>:
+- Response time is below 500ms (The "_Delay Response_" is manually excluded)
+- The Content-Type headers are written in the "_application/json_" format
+
+<ins>Localised tests involve, but not limited to<ins>:
+- Status Code check
+- Page Number check
+- Validation of a data type (i.e. a "_string_") and data length (_lengthOf.at.least(1)_, and response body _(text).to.be.oneOf([""])_ )
+- Look out for the specific data in the array (_for loop_) using strings and booleans
+- A creation of a randomised user ID (_Environment variable_) in the Pre-requests, to increase test coverage
+
+###   - [Project Summary](https://docs.google.com/presentation/d/17KeocfuhtARyeUm-ZgvBOyNPxaD25xaTksgp4efXQGA/edit?usp=sharing) (Google Slides)
+###   - [Orignal Project in Postman](https://stefan-8635302.postman.co/workspace/Stefan's-Workspace~abaf8235-12b1-4614-803d-e76b404bcbba/collection/43500936-a0a01dc4-cb57-4e6c-a34c-f3f58fd65a9e?action=share&creator=43500936&active-environment=43500936-41a84fae-9b7b-46d6-b98f-13661a1e2393) (Postman)
+###  &nbsp;
+
+### 2. **Agile Testing in Scrum Project using JIRA** ✅
+
  For testing purposes, the project used a Figma design of the transportation app (like Uber). In Jira, **user stories** were created and added to the Backlog, and **acceptance criteria** was written in **Gherkin format** (Given, When, Then). **Story points**, Priority, and Parent (Epic group) were assigned to user stories accordingly. The most important tests were added to Sprint 1, and the **Automation tool** was used to move the user story automatically to the "Done" section when all children are completed. **Burn-down chart** was used to track the total work remaining in Sprint 1.
 
 ###   - [The Project](https://docs.google.com/presentation/d/1FrGYEFlPc4jSW7zEXykDZcGzQ1Ucc8I07wGV_3hKOzs/edit?usp=sharing) (Google Slides)
+###  &nbsp;
 
-### 2. Black-Box Testing using **Spotify** functionalities - **Sign Up**, **Log In**, **Music Search** ###
+### 3. Black-Box Testing using **Spotify** functionalities - **Sign Up**, **Log In**, **Music Search** ✅
 The project used a combination of Functional testing, Positive and Negative Testing, and UI/UX testing). The project utilised black-box testing techniques:
    - State Transition testing for Sign Up, Log In functionalities
    - Equivalence Partitioning & Boundary-Value Analysis for Sign Up functionality (Email, Password, Username & Date of birth field)
@@ -53,8 +78,7 @@ The project used a combination of Functional testing, Positive and Negative Test
 ###   - [Test Scenario Writing](https://trello.com/b/z2pnoKJq/spotify-test-scenarios) (Trello)
 ###   - [Test Cases Writing](https://docs.google.com/spreadsheets/d/1ttfTnw705LfU7kh47s2N8l9ff8HnZ2Q4yl77ixrH2gU/edit?usp=sharing]) (Google Sheets)
 
-
-
+&nbsp;
 ### 🧠 **Courses**
 - The Complete 2025 Software Testing Bootcamp by Tarek Roshdy (In Progress)
 - Python Full Course for Beginners by Dave Gray (In Progress)
