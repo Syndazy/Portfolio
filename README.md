@@ -45,7 +45,7 @@ Hi! I'm **Stefans Marinaki**, an **Aspiring Software Tester** with a background 
 ### 1. **Creating a Custom Playlist using Spotify API, Postman + Automation** ✅
  An API project that explores a solution to discover new music outside of your _"comfort-genre zone"_ on Spotify. Meanwhile, this project's main focus is on the **data fetching methods scripted in JSON format**; tests are also executed to check if the algorithm fetches the correct data ID and the requests' status codes match. To instantly add filtered search queries to our Playlist, the whole process is **Automated** in **Postman**.
 
-###   - [Project](https://youtu.be/IL_qnMq7Yfs?si=w6qt2_pOfqJiNCpv) (YouTube)
+###   - [Project Walkthrough](https://youtu.be/IL_qnMq7Yfs?si=w6qt2_pOfqJiNCpv) (YouTube)
 ###  &nbsp;
 
 ### 2. **API testing Project using ReqRes in Postman** ✅
